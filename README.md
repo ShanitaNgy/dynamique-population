@@ -1,5 +1,11 @@
 # are-dynamic-fev2019
 
+Equipe pédagogique: 
+* lundi: Nicolas Gensollen / Leo Rannou
+* mardi: Maximilien Danisch / Pedro Ramaciotti 
+* mercredi: Gaspard Ducamp / Nicolas Maudet
+* jeudi: Jérémie Dona / Crédo Paniah / Cédric Herpson
+
 Vous trouverez dans ce répertoire les informations vous permettant d'aborder la première partie de l'atelier ARE DYNAMIC 2018-2019. 
 
 Le travail s'effectuera dans un **notebook jupyter**, qui se trouve dans ce même répertoire github. 
