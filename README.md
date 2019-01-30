@@ -23,3 +23,7 @@ Pour visualiser graphiquement les résultats de vos simulations, vous utiliserez
 
 Enfin, la manipulation des matrices est facilitée par l'utlisation du module `numpy`:
 * [présentation de numpy](https://github.com/jrjohansson/scientific-python-lectures/blob/master/Lecture-2-Numpy.ipynb)
+
+Procédure pour l'[accès à distance ssh](https://www-ppti.ufr-info-p6.jussieu.fr/index.php/support/connexions-distantes)
+
+
